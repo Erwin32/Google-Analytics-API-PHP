@@ -1,0 +1,10 @@
+{
+    "name": "erwin32/googleAnaliAPI",
+    "description": "google analitics API lib",
+    "license": "GNU2",
+    "minimum-stability": "dev",
+    "require": { },
+    "autoload": {
+        "classmap": ["GoogleAnalyticsAPI.class.php"]
+    }
+}
